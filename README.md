@@ -9,6 +9,6 @@ https://www.inflearn.com/course/%EA%B3%84%EC%82%B0%EA%B8%B0-swiftui/dashboard
 - Lv.4 : 연산클래스를 추상화 하기
 
 ### 문제점과 해결방안
--
--
+- 클로닝의 레퍼런스가 된 iPhone 기본 계산기 어플은 나머지를 표현하는 기능이 없음 ➡️ 
+- 
 -
